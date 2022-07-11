@@ -6,7 +6,7 @@
 
 <hr>
 
-### 🛠 &nbsp;Tech Stack
+### 🛠 
 <div><br>
   <img align="center" alt="Mateus-Rails"  width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg">
   <img align="center" alt="Mateus-Js"  width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
@@ -22,7 +22,7 @@
 </div>
 <hr>
   
-### 📊 &nbsp;My Stats
+### 📊 
 <br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateus-bittencourt&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
