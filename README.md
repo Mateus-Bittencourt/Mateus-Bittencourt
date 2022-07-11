@@ -1,8 +1,8 @@
 
 
 
-### Mateus Bittencourt
-- 🎓 &nbsp; Ruby on Rails Developer
+# Mateus Bittencourt
+-  &nbsp; Ruby on Rails Developer
 
 <hr>
 
